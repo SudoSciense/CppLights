@@ -1,0 +1,4 @@
+export CPPLIGHTS_URL=http://localhost:
+export CPPLIGHTS_PORT=8080
+export CPPLIGHTS_POLLTIME_MICROSECS=1000000
+export CPPLIGHTS_USER=newdeveloper
